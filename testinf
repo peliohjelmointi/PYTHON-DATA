@@ -1,0 +1,7 @@
+# kloonaa forkattu repository
+# tee jokin muutos
+# luo uusi commit
+git add .
+git commit -m "viesti tähän"
+# pushaa muutos githubiisi
+git push origin master
