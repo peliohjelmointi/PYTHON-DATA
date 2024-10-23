@@ -1,0 +1,102 @@
+[33mcommit 3f38c369b703dd4bcb2971c13638b6faa967b855[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 57f5565 cc62a6d
+Author: Mr-Analyst <119397839+Sir-Analyst@users.noreply.github.com>
+Date:   Wed Oct 23 12:55:05 2024 +0300
+
+    Merge branch 'peliohjelmointi:master' into master
+
+[33mcommit cc62a6d36fd59cca756028c72b88fa0656d94923[m
+Author: peliohjelmointi <96225525+peliohjelmointi@users.noreply.github.com>
+Date:   Wed Oct 23 12:47:18 2024 +0300
+
+    add word & powerpoint links
+
+[33mcommit 9e26da8f106ac4fdcb53da72c9f8060ebc029749[m
+Merge: f584832 1dea68a
+Author: Pyry Waltari <pw025974@tite.amiedu-ict.net>
+Date:   Wed Oct 23 12:38:26 2024 +0300
+
+    Mhttps://github.com/pwaltari/PYTHON-DATA.giterg branch 'master' of https://github.com/pwaltari/PYTHON-DATA
+
+[33mcommit f5848322553df02d54e99ade2bd25d5ae1c1ee4b[m
+Author: Pyry Waltari <pw025974@tite.amiedu-ict.net>
+Date:   Wed Oct 23 12:36:58 2024 +0300
+
+    another update to testi.txt
+
+[33mcommit 1dea68ada91798af67209733cc67c3068d2ebf02[m
+Merge: 612f304 9ac9721
+Author: Pyry Waltari <pyry.waltari@gmail.com>
+Date:   Wed Oct 23 12:34:39 2024 +0300
+
+    Merge branch 'peliohjelmointi:master' into master
+
+[33mcommit 9ac972134545494adc5cdf9aec39569feedf0938[m
+Author: peliohjelmointi <96225525+peliohjelmointi@users.noreply.github.com>
+Date:   Wed Oct 23 12:33:02 2024 +0300
+
+    Add files via upload
+
+[33mcommit a29bbc7fbc0ace7cfc0380296b498c89f20c5eaa[m
+Author: Pyry Waltari <pw025974@tite.amiedu-ict.net>
+Date:   Wed Oct 23 12:22:04 2024 +0300
+
+    updated testi.txt
+
+[33mcommit 57f5565e3f495626a4ba302561575229d9b56c3b[m
+Merge: c443128 cc442c6
+Author: Mr-Analyst <119397839+Sir-Analyst@users.noreply.github.com>
+Date:   Wed Oct 23 12:14:10 2024 +0300
+
+    Merge branch 'peliohjelmointi:master' into master
+
+[33mcommit cc442c6e5d2aaecd6c6e241bff5599cff90dd399[m
+Merge: b72cf10 17bd4bd
+Author: peliohjelmointi <96225525+peliohjelmointi@users.noreply.github.com>
+Date:   Wed Oct 23 11:20:05 2024 +0300
+
+    Merge pull request #1 from kphakkin/master
+    
+    Added main.py
+
+[33mcommit c443128cd5360318e5600b34d4a9bf72eec04983[m
+Author: Sayed Mehdi Kazemi <sk046520@tite.amiedu-ict.net>
+Date:   Wed Oct 23 11:17:27 2024 +0300
+
+    testi.py added
+
+[33mcommit 17bd4bd3671a0f196c595bf4f4973bc20cf0f801[m
+Author: Kari Häkkinen <kh025897@tite.amiedu-ict.net>
+Date:   Wed Oct 23 11:06:56 2024 +0300
+
+    Typo corrected: main.py
+
+[33mcommit 612f304d2d2e1a772896a10b09af1e4fcd568e64[m
+Author: Pyry Waltari <pw025974@tite.amiedu-ict.net>
+Date:   Wed Oct 23 11:04:30 2024 +0300
+
+    updated txt
+
+[33mcommit b49c061aef6b0cd43f27131f3604b1ef3b07b39f[m
+Author: Kari Häkkinen <kh025897@tite.amiedu-ict.net>
+Date:   Wed Oct 23 11:04:26 2024 +0300
+
+    Add: main.py
+
+[33mcommit b72cf1008647abdb9610efcce8fc9124be082d34[m
+Author: Kalle Sillanpää <kalle.sillanpää@tite.amiedu-ict.net>
+Date:   Wed Oct 23 10:51:44 2024 +0300
+
+    edit testi.txt
+
+[33mcommit 0e1b97e86993be15a9abc89e6800bfc403a58c5c[m
+Author: Pyry Waltari <pw025974@tite.amiedu-ict.net>
+Date:   Wed Oct 23 10:39:49 2024 +0300
+
+    added Pyryn teksti
+
+[33mcommit 848aca6a09b50378c82a1beff29769912f716c9b[m
+Author: peliohjelmointi <96225525+peliohjelmointi@users.noreply.github.com>
+Date:   Wed Oct 23 09:57:43 2024 +0300
+
+    Initial commit
