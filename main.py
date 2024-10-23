@@ -1,1 +1,1 @@
-"Tähän tulee maailmanluokan juttu"
+print("Tähän tulee maailmanluokan juttu")
