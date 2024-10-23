@@ -1,0 +1,23 @@
+from random import sample
+from random import shuffle
+from random import choice
+from string import ascii_lowercase, digits, punctuation, ascii_uppercase 
+def luoSalasana():
+    lettersL = list(ascii_lowercase)
+    pickL = sample(lettersL, 5) 
+
+    lettersU = list(ascii_uppercase)
+    pickU = sample(lettersU, 3)
+    pickU.extend(pickL)
+
+
+    pickD = choice(digits)
+
+    Spec = list(punctuation)
+    salasana = sample(Spec, 3)
+    salasana.extend(pickU)
+    salasana.extend(pickD)
+
+    shuffle(salasana)
+    return "".join(salasana)
+print("salasana", luoSalasana())
